@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning C language at campus 19<br>💬 Ask me about anything !
+🎓 I studied at 42 School<br>
+💬 Ask me about anything !
+
 
 
 ## 🌐 Socials:
